@@ -1,0 +1,16 @@
+# Core dependencies
+
+streamlit
+langchain-groq
+langchain-core
+langchain-community
+chromadb
+sentence-transformers
+torch
+
+# Compatibility dependencies
+protobuf
+grpcio
+grpcio-tools
+opentelemetry-api
+opentelemetry-sdk
