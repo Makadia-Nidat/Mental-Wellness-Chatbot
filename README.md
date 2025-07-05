@@ -96,17 +96,6 @@ mental-wellness-chatbot/
 
 ---
 
-## 🖥️ Screenshots
-
-📌 *[Add screenshots here to show:]*  
-- Loading and parsing articles  
-- Document chunk creation  
-- FAISS vector store indexing  
-- Query processing and response  
-- Chatbot web interface (if using Flask)
-
----
-
 ## 🔗 Live Demo / GitHub Pages / Deployment (Optional)
 
 *You can deploy the chatbot using IBM Cloud, Heroku, or locally with Flask.*  
